@@ -21,7 +21,7 @@ models/
 *.onnx
 
 # Dataset cache / local data
-food101_dataset/
+# food101_dataset/
 
 # OS/editor
 .DS_Store

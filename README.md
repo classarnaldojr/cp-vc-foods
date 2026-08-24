@@ -1,7 +1,9 @@
 # Checkpoint — Classificação de Imagens + Deploy
 
 Nome:
+
 RM:
+
 Turma:
 
 ## Objetivo

@@ -1,0 +1,14 @@
+{
+  "source": "ethz/food101",
+  "classes": [
+    "apple_pie",
+    "baklava",
+    "beef_carpaccio",
+    "beef_tartare",
+    "beet_salad",
+    "beignets"
+  ],
+  "train_per_class": 120,
+  "val_per_class": 40,
+  "test_per_class": 40
+}
