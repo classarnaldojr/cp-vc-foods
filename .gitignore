@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts and outputs
+artifacts/
+checkpoints/
+models/
+*.pt
+*.pth
+*.h5
+*.keras
+*.onnx
+
+# Dataset cache / local data
+food101_dataset/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
