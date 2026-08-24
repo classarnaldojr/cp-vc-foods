@@ -74,8 +74,8 @@ A rota `/health` já existe e pode ser usada para verificar se a aplicação ini
 
 Entrega é uma demonstração em aula:
 
-- O notebook deve estar **executado**, com métricas e resultados visíveis. (até 5 pontos)
-- A API deve estar rodando localmente e responder ao endpoint `/predict`. (até 5 pontos)
+- **Parte A — Notebook** O notebook deve estar **executado**, com métricas e resultados visíveis. (até 5 pontos)
+- **Parte B — Aplicação** A API deve estar rodando localmente e responder ao endpoint `/predict`. (até 5 pontos)
 
 
 ## Uso de IA

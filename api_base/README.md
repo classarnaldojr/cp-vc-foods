@@ -1,6 +1,6 @@
 # API base
 
-Esta pasta é intencionalmente incompleta.
+Vamos usar o modelo treinado no notebook como motor dsta API.
 
 ## Teste inicial
 
